@@ -14,3 +14,10 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+# Merge Conflicts
+- project: Merge Conflicts
+  role: Contributor
+  duration: 2021 &mdash; Present
+  url: "https://github.com/andrulet/merge-conflicts"
+  description: This course guides you through the steps to finding the best merge conflict solution, so your team can keep building.
